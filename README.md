@@ -1,0 +1,2 @@
+# ProjektHireCompany
+Git Flow
